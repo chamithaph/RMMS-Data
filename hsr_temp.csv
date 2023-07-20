@@ -1,0 +1,134 @@
+Itmcd,ItmNo,GrpCd,GrpCap,ItmDesc,UOM,Qty
+MS1-021,40,Gen,General up keep, general upkeep,sqm,1
+B0-114,41,RedHig,Reducing highside using motorgrader,Motor grader (120 -140 hp),sqm,0.000457
+B0-003,41,RedHig,Reducing highside using motorgrader,Semiskilled - (s/sk),sqm,0.000457
+T1-001,41,RedHig,Reducing highside using motorgrader,Transport of soil 25m to 100m by any means(including loading and unloading),sqm,0.15
+DR1-014,42,CleDr,Cleaning drain and leadways,Cleaning desilting existing side drains and lead up drains to proper shape and gradient and transport of excavated materials from road side up to 100m,m,1
+DR1-014,43,CleBltD,Cleaning coverd builtup drains,Cleaning desilting existing side drains and lead up drains to proper shape and gradient and transport of excavated materials from road side up to 100m,m,1
+B0-004,43,CleBltD,Cleaning coverd builtup drains,Unskilled - (u/sk),m,0.015625
+DR1-010,44,RemSndKrb,Removal of silt and sand in kerbs and channels,Clearing silt etc. From kerb & channels,m,1
+B0-004,45,CleMH,clearing of manholes and gullies.,Unskilled - (u/sk),no,0.128125
+B0-631,45,CleMH,clearing of manholes and gullies.,Baskets   ,no,0.041
+DR1-015,46,DesCul,Desilting of culvert,Clearing inlets & outlets of culverts,no,1
+DR1-012,46,DesCul,Desilting of culvert,Clearing and desilting of culverts,no,1
+DR1-005A,47,RctDr,Recutting side drains,Cutting side drains of std. Dimensions in unclassified soil using machine (back hoe j.c.b) including shaping trimming and levelling bottom manually,cum,1
+DR1-011,48,CutScu,cutting scupper drains,Cutting scupper drains on any soil other than rock to  and average width of 0.75 m with proper gradient and average depth of 100 mm,m,1
+B0-004,49,RdSwe,Road side sweeping,Unskilled - (u/sk),sqm,0.000683333
+B0-631,49,RdSwe,Road side sweeping,Baskets   ,sqm,0.000113333
+MS1-046,50,PntGdS,Painting guard stone,"Painting with emulsion 2 coat to parapets of bridges and culverts, guard stones and km posts after cleaning and attending to minor repairs",no,0.437
+MS1-050,50,PntGdS,Painting guard stone,Cleaning & painting 100 mm wide stripe for skirting to guard stones.(sscm 1501.3(b)(v)] :,no,1.2
+MS1-059,51,PntKrb,Painting kerbs,"Painting two coats enamel paint on kerbs, after cleaning and preparing surface",sqm,1
+RF1-002,52,KMpnt,KM Post painting and numbering,Whitewashing two coats km. Stones including numbering & tar skirting.,no,1
+MS1-046,53,PntBr,Painting Bridge and culvert,"Painting with emulsion 2 coat to parapets of bridges and culverts, guard stones and km posts after cleaning and attending to minor repairs",sqm,1
+RF1-003,54,BrNum,Bridge and culvert numbering,Painting white back ground on parapets etc. & stencilling nos.,no,1
+B0-001,55,Ferry,Operation ferry service,Skilled A - (sk'A'),day,1
+B0-004,55,Ferry,Operation ferry service,Unskilled - (u/sk),day,2
+MS1-058,1,Pat,Patching potholes,Patching Road with premix after preperation surface with CSS1 including internal transport and stamping with machinary(loose vol),m.ton,0.001
+B0-362,1,Pat,Patching potholes,Asphalt concrete; bound base material-                             ,m.ton,0.001
+T1-009,1,Pat,Patching potholes,"Transport of premix in bulk, excluding loading other than at mixing plant",m.ton,0.05
+MS1-011,57,Rut,"Repairing of ruts, depression and surface irregulaties",Patching ruts and depression up to 75mm Plant made cold mix. Application of tack coat.,sqm,1
+B0-362,57,Rut,"Repairing of ruts, depression and surface irregulaties",Asphalt concrete; bound base material-                             ,sqm,0.1
+T1-009,57,Rut,"Repairing of ruts, depression and surface irregulaties","Transport of premix in bulk, excluding loading other than at mixing plant",sqm,5
+MS1-011,3,Edg,Edge correction,Patching ruts and depression up to 75mm Plant made cold mix. Application of tack coat.,sqm,1
+B0-362,3,Edg,Edge correction,Asphalt concrete; bound base material-                             ,sqm,0.1
+T1-009,3,Edg,Edge correction,"Transport of premix in bulk, excluding loading other than at mixing plant",sqm,5
+B0-461,59,FtwkRep,Footwalk repair,G40 concrete paving block,sqm,41.3
+anex vi -1,59,FtwkRep,Footwalk repair,Transport interlocking block,sqm,1.025
+anex vi -2,59,FtwkRep,Footwalk repair,Paving of interlocking block,sqm,1239
+RF1-009,60,GudRep,Guard stone repair,Casting standard type  guard stones in concrete ,no,0.3
+ST1-047,61,ParrRep,Parapetwall repair,"Mixing and laying using concrete mixer, cement concrete 1:2:4 (19 mm)  (volume batching) using crusher run aggregate (excl. Transport of aggregate and piling)",no,0.05
+ST1-057,61,ParrRep,Parapetwall repair,"Supplying and fixing 25 mm thick planks of class ii timber as shuttering, including removing",no,0.45
+B0-003,61,ParrRep,Parapetwall repair,Semiskilled - (s/sk),no,0.4
+B0-004,61,ParrRep,Parapetwall repair,Unskilled - (u/sk),no,0.41
+B0-003,62,FencRep,"Safety fence, guardrail repair",Semiskilled - (s/sk),m,0.1
+B0-004,62,FencRep,"Safety fence, guardrail repair",Unskilled - (u/sk),m,0.1025
+ST1-091,62,FencRep,"Safety fence, guardrail repair","Painting with one coat of enamel paint after cleaning, de-rusting and application of one coat anticorrosive paint",m,0.4
+B0-004,63,SgnRep,Repair sign boards,Unskilled - (u/sk),no,0.103
+B0-003,63,SgnRep,Repair sign boards,Semiskilled - (s/sk),no,0.1
+B0-541,63,SgnRep,Repair sign boards,Enamal paint,no,0.08
+B0-004,64,OHBrn,Remove overhanging branches,Unskilled - (u/sk),no,0.298958333
+MS1-026,65,ShldMnt,Shoulder maintanance using motorgrader,Regrading and regraveling of shoulders,cum,1
+ST1-048,66,CovSlb,Cover slab  replacement,"Mixing and laying using concrete mixer (w/batching), cement concrete for grade 25 (19 mm)  using crusher run aggregate in foundation and floors.",no,0.05
+T1-007A,66,CovSlb,Cover slab  replacement,Transport of material in bulk excluding loading ( for distance more than 10 kilometers ),no,4.5
+ST1-053,66,CovSlb,Cover slab  replacement,"Curing of concrete decks, slabs , beams, walls etc.",no,2.28
+ST1-065,66,CovSlb,Cover slab  replacement,"Formwork smooth finish for general purposes, using 25mm thick planks & struts of class ii timber and round jungle timber props 100 - 150 mm dia. Including dismantling",no,0.28
+ST1-055,66,CovSlb,Cover slab  replacement,Fabricate and lay tor steel as reinforcement (including transport),no,7.99
+B0-004,66,CovSlb,Cover slab  replacement,Unskilled - (u/sk),no,0.5
+T1-046,66,CovSlb,Cover slab  replacement,"Transport of precast concrete slabs 450x450x50 mm for foot walks, including loading and unloading",no,0.81
+RF1-009,67,GudRpl,Guard stone replacement,Casting standard type  guard stones in concrete ,no,1
+RF1-008,67,GudRpl,Guard stone replacement,Fixing new or refixing type guard stones in cement concrete,no,1
+T1-047,67,GudRpl,Guard stone replacement,Transport of precast concrete standard boundary markers including unloading only,no,50
+B0-458,68,KMRpl,KM Post replacement,Km post standard,no,1
+RF1-007,68,KMRpl,KM Post replacement,Fixing standard type  k.m. Stones in any soil,no,1
+T1-047,68,KMRpl,KM Post replacement,Transport of precast concrete standard boundary markers including unloading only,no,50
+B0-800,69,Lane,Lane marking,Thermo plastic road marking matcrial(white),m,3.571428571
+B0-802,69,Lane,Lane marking,"Glass beads""",m,0.25
+B0-125,69,Lane,Lane marking,Lorry 3 ton(2.5 cu.m),m,0.422857143
+B0-004,69,Lane,Lane marking,Unskilled - (u/sk),m,0.001464286
+RS1-015,69,Lane,Lane marking,"Road marking continuous centre line 100mm width, using thermoplastic paint (white) , inclusive barricading.(paint materials & reflective glass beads to pay separately)",m,1
+B0-800,70,PedCr,Marking of Pedestrian crossing,Thermo plastic road marking matcrial(white),sqm,3.571
+B0-802,70,PedCr,Marking of Pedestrian crossing,"Glass beads""",sqm,0.25
+B0-125,70,PedCr,Marking of Pedestrian crossing,Lorry 3 ton(2.5 cu.m),sqm,0.423
+B0-004,70,PedCr,Marking of Pedestrian crossing,Unskilled - (u/sk),sqm,0.001
+RS1-015,70,PedCr,Marking of Pedestrian crossing,"Road marking continuous centre line 100mm width, using thermoplastic paint (white) , inclusive barricading.(paint materials & reflective glass beads to pay separately)",sqm,1
+PS-001,71,SgnRpl,Road sign board replacement,Supply of signboard,no,1
+RS1-001,71,SgnRpl,Road sign board replacement,Notice & traffic sign boards etc. Fixed in concrete,no,1
+S1-016,2,Crk,Crack sealing,"Tack coat using emulsion (css-1) @ the rate of 0.5 ltr/sq.m inclusive of brushing, cleaning road surface and cost of emulsion (manual)",sqm,0.55
+B0-331,2,Crk,Crack sealing,River sand for road surface,sqm,0.01
+S1-028,2,Crk,Crack sealing,Blinding the bitumen surfacing with sand at the rate of 125 sq.m/1 cu.m using material from stock pile,sqm,1.1
+B0-351,73,SndSl,Sand sealing,Bitumen 80/100[200 ltr drums] (ex-stockist),sqm,1
+B0-141,73,SndSl,Sand sealing,Tank truck bitumen 10000 ltr,sqm,0.0001
+B0-001,73,SndSl,Sand sealing,Skilled A - (sk'A'),sqm,0.0006
+B0-002,73,SndSl,Sand sealing,Skilled B - (sk'B'),sqm,0.0001
+B0-004,73,SndSl,Sand sealing,Unskilled - (u/sk),sqm,0.0028
+B0-331,73,SndSl,Sand sealing,River sand for road surface,sqm,0.008
+B0-121,73,SndSl,Sand sealing,Sand/chip spreader - propelled,sqm,0.00025
+B0-112,73,SndSl,Sand sealing,Pneumatic road roller (8 - 10 tons),sqm,0.001
+B0-117,73,SndSl,Sand sealing,Tractor & trailor (3t:),sqm,0.0005
+T1-007A,73,SndSl,Sand sealing,Transport of material in bulk excluding loading ( for distance more than 10 kilometers ),sqm,0.24
+B0-351,74,ChpSl,Chip sealing,Bitumen 80/100[200 ltr drums] (ex-stockist),sqm,1
+B0-141,74,ChpSl,Chip sealing,Tank truck bitumen 10000 ltr,sqm,0.0001
+B0-001,74,ChpSl,Chip sealing,Skilled A - (sk'A'),sqm,0.0006
+B0-002,74,ChpSl,Chip sealing,Skilled B - (sk'B'),sqm,0.0001
+B0-004,74,ChpSl,Chip sealing,Unskilled - (u/sk),sqm,0.0028
+B0-316,74,ChpSl,Chip sealing,Aggregate 9.5 mm,sqm,0.008
+B0-121,74,ChpSl,Chip sealing,Sand/chip spreader - propelled,sqm,0.00025
+B0-112,74,ChpSl,Chip sealing,Pneumatic road roller (8 - 10 tons),sqm,0.001
+B0-117,74,ChpSl,Chip sealing,Tractor & trailor (3t:),sqm,0.0005
+T1-007A,74,ChpSl,Chip sealing,Transport of material in bulk excluding loading ( for distance more than 10 kilometers ),sqm,0.24
+S1-033A,75,ScOl,Section overlay,Sply.lay & compt. Asplt contrt. Cold mixwith emul css.1(6.67%  wt of agg. 19mm dense plant made) in small wrks. Suc. As brdg. Decking reinstatement of trenches etc.,sqm,1
+B0-366,75,ScOl,Section overlay,Cold mixed asphalt with emulsion css-1                              .  ,sqm,1
+T1-009,75,ScOl,Section overlay,"Transport of premix in bulk, excluding loading other than at mixing plant",sqm,30
+B0-004,75,ScOl,Section overlay,Unskilled - (u/sk),sqm,0.256
+B0-123C,76,SfMl,Surface milling,Milling machine,km,1
+B0-117,76,SfMl,Surface milling,Tractor & trailor (3t:),km,0.1
+B0-001,76,SfMl,Surface milling,Skilled A - (sk'A'),km,0.1
+B0-004,76,SfMl,Surface milling,Unskilled - (u/sk),km,0.5
+E1-011,77,BfCr,Base failure correction,"Excavation pit/trench for foundation in ordinary soil not exceeding 1.5m deep, including levelling and ramming bottom, exc.material deposited within 25m or as directed.",sqm,0.833
+B0-302,77,BfCr,Base failure correction,(150mm - 225mm) rubble piled,sqm,0.417
+T1-007A,77,BfCr,Base failure correction,Transport of material in bulk excluding loading ( for distance more than 10 kilometers ),sqm,20.167
+M1-012A,77,BfCr,Base failure correction,Dense graded agg. Base (ABC) spreading water and comp. Graded 37.5 mm agg to form a dense agg. Base using machinry including motor grader & roller hire charges.,sqm,0.592
+S1-033A,77,BfCr,Base failure correction,Sply.lay & compt. Asplt contrt. Cold mixwith emul css.1(6.67%  wt of agg. 19mm dense plant made) in small wrks. Suc. As brdg. Decking reinstatement of trenches etc.,sqm,0.020576132
+B0-366,77,BfCr,Base failure correction,Cold mixed asphalt with emulsion css-1                              .  ,sqm,0.020576132
+T1-009,77,BfCr,Base failure correction,"Transport of premix in bulk, excluding loading other than at mixing plant",sqm,0.617283951
+B0-004,77,BfCr,Base failure correction,Unskilled - (u/sk),sqm,0.005272634
+MS1-026,78,GrSh,Grading and regravelling shoulders,Regrading and regraveling of shoulders,sqm,0.1
+B0-201                           ,78,GrSh,Grading and regravelling shoulders,Approved soil type i & ii for bases & shoulders,sqm,0.1
+T1-006  ,78,GrSh,Grading and regravelling shoulders,Transport of meterial in bulk excluding loading (for distance less than or equal 3 kilometers),sqm,0.1
+EW1-003A,79,GrEr,Grading and regravelling earth road,"Approved soil spread & rolled using machinery including motor grader & roller hire charges, fuel & watering (loose volume)",sqm,0.142
+EW1-013,79,GrEr,Grading and regravelling earth road,Approved soil (type i & ii materials) excavation using machinery for bases & shoulder construction including loading and piling (loose volume),sqm,0.142
+E1-021,79,GrEr,Grading and regravelling earth road,Piling available soil,sqm,0.142
+T1-007A,79,GrEr,Grading and regravelling earth road,Transport of material in bulk excluding loading ( for distance more than 10 kilometers ),sqm,3.55
+ST1-047,80,CulRep,Culvert / bridge repair (minor),"Mixing and laying using concrete mixer, cement concrete 1:2:4 (19 mm)  (volume batching) using crusher run aggregate (excl. Transport of aggregate and piling)",cum,0.5
+ST1-057,80,CulRep,Culvert / bridge repair (minor),"Supplying and fixing 25 mm thick planks of class ii timber as shuttering, including removing",cum,3
+B0-003,80,CulRep,Culvert / bridge repair (minor),Semiskilled - (s/sk),cum,1
+B0-004,80,CulRep,Culvert / bridge repair (minor),Unskilled - (u/sk),cum,1.025
+PS-002,81,MntTr,Maintanance of traffic signals at junction,Maintanance of traffic signals at junction,no,1
+PS-003,82,MntLt,Maintanance of street light,Maintanance of street light,no,1
+E1-028,83,ErthS,remove earth slips,Loading materials by machinery in roadway excavations (cutting measurement),cum,1
+T1-006  ,83,ErthS,remove earth slips,Transport of meterial in bulk excluding loading (for distance less than or equal 3 kilometers),cum,1.35
+MS1-029,84,FalTr,Remove fallen trees,Cutting removing fallen trees girth upto 600mm,no,1
+PS-004,85,RWRep,Retaining wall repair,Retaining wall repair,no,1
+PS-005,86,EmbEr,Rectification of embakment erosion,Rectification of embakment erosion,no,1
+PS-006,87,RdDiv,Road diversion,Road diversion,no,1
+PS-007,88,Baily,erection of baily bridge,erection of baily bridge,no,1
